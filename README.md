@@ -3,8 +3,8 @@
 ##
 
 <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R-Lassen&show_icons=false&theme=merko&title_color=0db02b&text_color=fffff&hide_border=true&custom_title=Estatísticas"/> <!--&icon_color=0db02b -->
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lassen&layout=compact&theme=merko&title_color=0db02b&text_color=fffff&icon_color=5391c7&hide_border=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R-Lassen&show_icons=true&theme=merko&title_color=4094E1&text_color=fffff&hide_border=true&custom_title=Estatísticas&hide=prs,issues,&icon_color=4094E1"/> <!--&icon_color=0db02b -->
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Lassen&layout=compact&theme=merko&title_color=4094E1&text_color=fffff&icon_color=5391c7&hide_border=true"/>
 </div>
 
 
